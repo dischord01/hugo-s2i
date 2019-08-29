@@ -1,6 +1,6 @@
 FROM golang:alpine
 
-MAINTAINER Michal Fojtik <mi@mifo.sk>
+LABEL Michal Fojtik <mi@mifo.sk>
 
 LABEL io.openshift.s2i.scripts-url=image:///usr/libexec/s2i
 
